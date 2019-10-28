@@ -1,0 +1,74 @@
+﻿@model IEnumerable<Personel>
+@{
+    ViewData["Title"] = "Index";
+}
+<div>
+
+</div>
+<div class="m-4">
+    <div class="bg-success text-white p-4">
+        <h2>Personel Listesi</h2>
+    </div>
+    <div class="card my-2">
+        <div class="card-body">
+            <form method="get" id="filter">
+                <div class="form-group">
+                    <input name="name" class="form-control" placeholder="Personel Adı" value="@ViewBag.name" />
+                </div>
+                <button class="btn btn-primary">
+                    Arama Yap
+                </button>
+            </form>
+        </div>
+    </div>
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Ad</th>
+                <th>Soyad</th>
+                <th>Cinsiyet</th>
+                <th>E-Mail</th>
+                <th>Doğum Tarihi</th>
+                <th>Fotoğraf</th>
+                <th>Adres</th>
+                <th>Departman</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>@item.Ad</td>
+                <td>@item.Soyad</td>
+                <td>@item.Cinsiyet</td>
+                <td>@item.Email</td>
+                <td>@item.DTarih</td>
+                <td>@item.Foto</td>
+                <td>@item.Adres</td>
+                <td>
+                    @foreach (var item2 in ViewBag.Departmanlar)
+                    {
+                        if (item2.Id == item.DepartmanId)
+                        {
+                            @item2.Ad
+                        }
+                    }
+                </td>
+
+                <td>
+                    <form asp-action="Delete" method="post">
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary btn-sm">Düzenle</a>
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit" class="btn btn-danger btn-sm btn-del">Sil</button>
+
+                    </form>
+                </td>
+            </tr>
+            }
+
+        </tbody>
+    </table>
+
+    <a asp-action="Create" class="btn btn-primary">Yeni Kayıt</a>
+</div>

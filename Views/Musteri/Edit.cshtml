@@ -1,0 +1,67 @@
+﻿@model Musteri
+@{
+    ViewData["Title"] = ViewBag.ActionMode; ;
+}
+
+<div class="m-4">
+    <div class="bg-success text-white p-4">
+        <h2>Müşteri Ekle / Düzenle</h2>
+    </div>
+    <form asp-action="@(ViewBag.ActionMode)" method="post">
+        <input type="hidden" name="original.Id" value="@Model.Id" />
+        <input type="hidden" name="original.Name" value="@Model.Ad" />
+        <input type="hidden" name="original.Name" value="@Model.Soyad" />
+        <input type="hidden" name="original.Name" value="@Model.TCKimlik" />
+        <input type="hidden" name="original.Name" value="@Model.Email" />
+        <input type="hidden" name="original.Name" value="@Model.Cinsiyet" />
+        <input type="hidden" name="original.Name" value="@Model.DTarih" />
+        <input type="hidden" name="original.Name" value="@Model.Adres" />
+        <input type="hidden" name="original.Name" value="@Model.Firma" />
+
+
+        <div class="row">
+            <div class="col-6">
+                <div class="bg-primary text-white p-2 mt-3">
+                    Müşteri Bilgileri
+                </div>
+                <div class="form-group">
+                    <label>Ad</label>
+                    <input asp-for="Ad" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Soyad</label>
+                    <input asp-for="Soyad" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>TC NO</label>
+                    <input asp-for="TCKimlik" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>E-Mail</label>
+                    <input asp-for="Email" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Cinsiyet</label>
+                    <input asp-for="Cinsiyet" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Doğum Tarihi</label>
+                    <input asp-for="DTarih" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Adres</label>
+                    <input asp-for="Adres" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Firma</label>
+                    <br />
+                    @Html.DropDownListFor(x => x.FirmaId, new SelectList(ViewBag.Firmalar, "Id", "FirmaAdi"), "Firma Seçiniz...", new { @class = "form-control" })
+                    @*<input asp-for="Kategori" class="form-control" />*@
+                </div>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Kaydet</button>
+    </form>
+</div>
+

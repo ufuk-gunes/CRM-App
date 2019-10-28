@@ -1,0 +1,251 @@
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.deps.json
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.runtimeconfig.json
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.runtimeconfig.dev.json
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.dll
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.csprojAssemblyReference.cache
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.csproj.CoreCompileInputs.cache
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorAssemblyInfo.cache
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorAssemblyInfo.cs
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.AssemblyInfoInputs.cache
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.AssemblyInfo.cs
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.TagHelpers.input.cache
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.TagHelpers.output.cache
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorCoreGenerate.cache
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorTargetAssemblyInfo.cache
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorTargetAssemblyInfo.cs
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.pdb
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.Views.dll
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.Views.pdb
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.Views.pdb
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.dll
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.pdb
+C:\Users\Ogle302\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.csproj.CopyComplete
+C:\Users\pcx\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.deps.json
+C:\Users\pcx\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.runtimeconfig.json
+C:\Users\pcx\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.runtimeconfig.dev.json
+C:\Users\pcx\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.dll
+C:\Users\pcx\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.pdb
+C:\Users\pcx\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.Views.dll
+C:\Users\pcx\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.Views.pdb
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.csprojAssemblyReference.cache
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.csproj.CoreCompileInputs.cache
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorAssemblyInfo.cache
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorAssemblyInfo.cs
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.AssemblyInfoInputs.cache
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.AssemblyInfo.cs
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.TagHelpers.input.cache
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.TagHelpers.output.cache
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorCoreGenerate.cache
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorTargetAssemblyInfo.cache
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorTargetAssemblyInfo.cs
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.Views.pdb
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.dll
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.pdb
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.csproj.CopyComplete
+C:\Users\pcx\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Departman\Index.g.cshtml.cs
+C:\Users\Section3\source\repos\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.deps.json
+C:\Users\Section3\source\repos\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.runtimeconfig.json
+C:\Users\Section3\source\repos\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.runtimeconfig.dev.json
+C:\Users\Section3\source\repos\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.dll
+C:\Users\Section3\source\repos\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.pdb
+C:\Users\Section3\source\repos\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.Views.dll
+C:\Users\Section3\source\repos\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.Views.pdb
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.csprojAssemblyReference.cache
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.csproj.CoreCompileInputs.cache
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorAssemblyInfo.cache
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorAssemblyInfo.cs
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.AssemblyInfoInputs.cache
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.AssemblyInfo.cs
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.TagHelpers.input.cache
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.TagHelpers.output.cache
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorCoreGenerate.cache
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Departman\Index.g.cshtml.cs
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorTargetAssemblyInfo.cache
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorTargetAssemblyInfo.cs
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.Views.pdb
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.dll
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.pdb
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.csproj.CopyComplete
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Departman\Edit.g.cshtml.cs
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Firma\Index.g.cshtml.cs
+C:\Users\Section3\source\repos\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Firma\Edit.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.deps.json
+C:\Users\furka\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.runtimeconfig.json
+C:\Users\furka\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.runtimeconfig.dev.json
+C:\Users\furka\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.dll
+C:\Users\furka\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.pdb
+C:\Users\furka\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.Views.dll
+C:\Users\furka\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.Views.pdb
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorAssemblyInfo.cache
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorAssemblyInfo.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.AssemblyInfoInputs.cache
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.AssemblyInfo.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.TagHelpers.input.cache
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.TagHelpers.output.cache
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorCoreGenerate.cache
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Departman\Edit.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Departman\Index.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Firma\Edit.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Firma\Index.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorTargetAssemblyInfo.cache
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorTargetAssemblyInfo.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.Views.pdb
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.dll
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.pdb
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.csproj.CopyComplete
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Kategori\Index.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Kategori\Edit.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Urun\Index.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Urun\Edit.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Musteri\Index.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Musteri\Edit.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Personel\Index.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Personel\Edit.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Satis\Index.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Satis\Edit.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Stok\Index.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Stok\Edit.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Teklif\Index.g.cshtml.cs
+C:\Users\furka\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Teklif\Edit.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.deps.json
+C:\Users\Section3\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.runtimeconfig.json
+C:\Users\Section3\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.runtimeconfig.dev.json
+C:\Users\Section3\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.dll
+C:\Users\Section3\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.pdb
+C:\Users\Section3\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.Views.dll
+C:\Users\Section3\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.Views.pdb
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.csprojAssemblyReference.cache
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.csproj.CoreCompileInputs.cache
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorAssemblyInfo.cache
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorAssemblyInfo.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.AssemblyInfoInputs.cache
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.AssemblyInfo.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.TagHelpers.input.cache
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.TagHelpers.output.cache
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorCoreGenerate.cache
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Departman\Edit.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Departman\Index.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Firma\Edit.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Firma\Index.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Kategori\Edit.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Kategori\Index.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Musteri\Edit.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Musteri\Index.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Personel\Edit.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Personel\Index.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Satis\Edit.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Satis\Index.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Stok\Edit.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Stok\Index.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Teklif\Edit.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Teklif\Index.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Urun\Edit.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Urun\Index.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorTargetAssemblyInfo.cache
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorTargetAssemblyInfo.cs
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.Views.pdb
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.dll
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.pdb
+C:\Users\Section3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.csproj.CopyComplete
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.deps.json
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.runtimeconfig.json
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.runtimeconfig.dev.json
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.dll
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.pdb
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.Views.dll
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\bin\Debug\netcoreapp2.1\MixCRM.Views.pdb
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.csprojAssemblyReference.cache
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.csproj.CoreCompileInputs.cache
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorAssemblyInfo.cache
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorAssemblyInfo.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.AssemblyInfoInputs.cache
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.AssemblyInfo.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.TagHelpers.input.cache
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.TagHelpers.output.cache
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorCoreGenerate.cache
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Departman\Edit.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Departman\Index.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Firma\Edit.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Firma\Index.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Kategori\Edit.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Kategori\Index.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Musteri\Edit.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Musteri\Index.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Personel\Edit.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Personel\Index.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Satis\Edit.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Satis\Index.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Stok\Edit.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Stok\Index.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Teklif\Edit.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Teklif\Index.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Urun\Edit.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\Urun\Index.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorTargetAssemblyInfo.cache
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.RazorTargetAssemblyInfo.cs
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.Views.pdb
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.dll
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.pdb
+C:\Users\Section 3\Desktop\MixCRM\MixCRM\obj\Debug\netcoreapp2.1\MixCRM.csproj.CopyComplete

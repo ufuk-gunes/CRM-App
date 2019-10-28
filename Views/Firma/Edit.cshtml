@@ -1,0 +1,60 @@
+﻿@model Firma
+@{
+    ViewData["Title"] = ViewBag.ActionMode; ;
+}
+
+<div class="m-4">
+    <div class="bg-success text-white p-4">
+        <h2>Firma Ekle / Düzenle</h2>
+    </div>
+    <form asp-action="@(ViewBag.ActionMode)" method="post">
+        <input type="hidden" name="original.Id" value="@Model.Id" />
+        <input type="hidden" name="original.Name" value="@Model.FirmaAdi" />
+        <input type="hidden" name="original.Name" value="@Model.Unvan" />
+        <input type="hidden" name="original.Name" value="@Model.FirmaYetkilisi" />
+        <input type="hidden" name="original.Name" value="@Model.Eposta" />
+        <input type="hidden" name="original.Name" value="@Model.Tel" />
+        <input type="hidden" name="original.Name" value="@Model.Adres" />
+        <input type="hidden" name="original.Name" value="@Model.Aciklama" />
+
+
+        <div class="row">
+            <div class="col-6">
+                <div class="bg-primary text-white p-2 mt-3">
+                    Departman
+                </div>
+                <div class="form-group">
+                    <label>Firma Adı</label>
+                    <input asp-for="FirmaAdi" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Firma Unvanı</label>
+                    <input asp-for="Unvan" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Firma Yetkilisi</label>
+                    <input asp-for="FirmaYetkilisi" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>E-Posta</label>
+                    <input asp-for="Eposta" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Telefon</label>
+                    <input asp-for="Tel" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Adres</label>
+                    <input asp-for="Adres" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Açıklama</label>
+                    <input asp-for="Aciklama" class="form-control" />
+                </div>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Kaydet</button>
+    </form>
+</div>
+

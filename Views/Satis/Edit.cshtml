@@ -1,0 +1,86 @@
+﻿@model Satis
+@{
+    ViewData["Title"] = ViewBag.ActionMode; ;
+}
+
+<div class="m-4">
+    <div class="bg-success text-white p-4">
+        <h2>Satış Ekle / Düzenle</h2>
+    </div>
+    <form asp-action="@(ViewBag.ActionMode)" method="post">
+        <input type="hidden" name="original.Id" value="@Model.Id" />
+        <input type="hidden" name="original.Name" value="@Model.SatisAdi" />
+        <input type="hidden" name="original.Name" value="@Model.SatisTarihi" />
+        <input type="hidden" name="original.Name" value="@Model.Musteri" />
+        <input type="hidden" name="original.Name" value="@Model.Personel" />
+        <input type="hidden" name="original.Name" value="@Model.Urun" />
+        <input type="hidden" name="original.Name" value="@Model.SatisAdeti" />
+        <input type="hidden" name="original.Name" value="@Model.Aciklama" />
+
+
+        <div class="row">
+            <div class="col-6">
+                <div class="bg-primary text-white p-2 mt-3">
+                    Satış Bilgileri
+                </div>
+                <div class="form-group">
+                    <label>Satış Adı</label>
+                    <input asp-for="SatisAdi" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Satış Tarihi</label>
+                    <input asp-for="SatisTarihi" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Müşteri</label>
+                    <br />
+                    @Html.DropDownListFor(x => x.MusteriId, new SelectList(ViewBag.Musteriler, "Id", "Ad"), "Müşteri Seçiniz...", new { @class = "form-control" })
+                    @*<input asp-for="Kategori" class="form-control" />*@
+                </div>
+                <div class="form-group">
+                    <label>Personel</label>
+                    <br />
+                    @Html.DropDownListFor(x => x.PersonelId, new SelectList(ViewBag.Personeller, "Id", "Ad"), "Personel Seçiniz...", new { @class = "form-control" })
+                    @*<input asp-for="Kategori" class="form-control" />*@
+                </div>
+                <div class="form-group">
+                    <label>Ürün</label>
+                    <br />
+                    @Html.DropDownListFor(x => x.UrunId, new SelectList(ViewBag.Urunler, "Id", "UrunAdi"), "Ürün Seçiniz...", new { @class = "form-control", @onChange = "SelectedValue(this)", @id = "SecilenId" })
+                    @*<input asp-for="Kategori" class="form-control" />*@
+                </div>
+                <div class="form-group">
+                    <label>Satış Adedi</label>
+                    <input asp-for="SatisAdeti" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <label>Açıklama</label>
+                    <input asp-for="Aciklama" class="form-control" />
+                </div>
+
+                <div class="form-group">
+                    <label id="stok"></label>
+                        @foreach (var item in ViewBag.Stoklar)
+                        {
+                        }
+                    
+                </div>
+
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Kaydet</button>
+    </form>
+</div>
+<script>
+
+    //To get selected value an text of dropdownlist
+    function SelectedValue(ddlObject) {
+        //Selected value of dropdownlist
+        var selectedValue = ddlObject.value;
+        //Selected text of dropdownlist
+        document.getElementById('stok').innerHTML = selectedValue;
+
+        //alert popup with detail of seleceted value and text
+    }
+</script>
